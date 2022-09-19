@@ -25,8 +25,8 @@ GitHub: https://github.com/habib-e
 
 Skills: C / C++ / C# / JAVA / PYTHON / HTML / CSS / JAVASCRIPT / MYSQL / OOP / GIT / ASP.NET
 
-- 🔭 I’m currently working on BUBT as a student. 
-- 🌱 I’m currently learning JavaScript 
+- 🔭 I’m currently studying on 11th semester in the CSE department of BUBT
+- 🌱 I’m currently doing competitive programming
 - 👯 I’m looking to collaborate on Github 
 - 💬 Ask me about Problem Solving and Computer Software and Hardware with Recent Technology. 
 - 📫 How to reach me: Through Linkedin 
