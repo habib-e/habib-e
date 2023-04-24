@@ -1,5 +1,3 @@
-A self-motivated and passionate problem solver, participated in several programming contests including ICPC. Cooperative and helpful team participant, with the ability to think & work under pressure.
-
 ### Hi there 👋, I'm Habib
 #### A self-motivated and passionate problem solver, participated in several programming contests including ICPC. Cooperative and helpful team participant, with the ability to think & work under pressure.
 
