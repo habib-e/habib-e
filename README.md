@@ -18,6 +18,7 @@ Here are my strengths -
 • Runner-up in BUBT IUPC.
 
 You can find me on the following links also,
+Linkedin: https://www.linkedin.com/in/imthehabib/
 CodeForces: https://codeforces.com/profile/imhabib
 LeetCode: https://leetcode.com/imhabib/
 StopStalk: https://www.stopstalk.com/user/profile/Habib
@@ -25,11 +26,12 @@ GitHub: https://github.com/habib-e
 
 Skills: C / C++ / C# / JAVA / PYTHON / HTML / CSS / JAVASCRIPT / MYSQL / OOP / GIT / ASP.NET
 
-- 🔭 I’m currently studying on 11th semester in the CSE department of BUBT
-- 🌱 I’m currently doing competitive programming
-- 👯 I’m looking to collaborate on Github 
-- 💬 Ask me about Problem Solving and Computer Software and Hardware with Recent Technology. 
-- 📫 How to reach me: Through Linkedin 
+I am a competitive programmer and problem solver with expertise in C, C++, data structures and algorithms, Git, object-oriented programming, and Linux. I have participated in various programming contests such as the ICPC Regional, NCPC, and IUPC contests, and have solved over 1500 problems in different online judges.
+
+I also have experience working as a teaching assistant and competitive programming instructor at BUBT, where I effectively communicated complex concepts to students. In addition, I have worked as a problem setter and judge, participated in over 250 online and offline programming contests, and built a programming helping platform using the MERN stack during a hackathon.
+
+As a result of my experience, I possess strong problem-solving, communication, teamwork, attention to detail, and responsibility-taking skills, which have enabled me to excel in different roles. I am excited to bring my technical abilities and soft skills to a professional setting, where I can continue to learn and grow as a  Software Geeks.
+
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/habib-e)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/imthehabib//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/imthehabib/)  
